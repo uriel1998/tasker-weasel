@@ -43,7 +43,7 @@
 				<appPkg>com.android.chrome</appPkg>
 				<label>Chrome</label>
 			</App>
-			<Str sr="arg1" ve="3">http://stevesaus.me</Str>
+			<Str sr="arg1" ve="3">http://ideatrash.net</Str>
 			<Int sr="arg2" val="0"/>
 			<ConditionList sr="if">
 				<bool0>And</bool0>
