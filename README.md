@@ -11,14 +11,17 @@ Files:
 
 The profile that is called upon connecting to *any* wifi network
 
-
 **net.checkip.tsk**
 
-Calls http://checkip.dyndns.org/ .  If the response is *anything* that doesn't make sense, it sets the variable %IPaddy to 0.0.0.0 ; otherwise it will return with the valid address.
+Calls http://checkip.dyndns.org/ .  If the response is *anything* that doesn't make sense, it sets the variable %IPaddy to 0.0.0.0 ; otherwise it will return %IPaddy with the valid address.
 
 **net.logon.tsk**
 
 Calls **checkip** and if the result is 0.0.0.0, launches Chrome, then afterward calls **checkip** again to set the variable properly.
+
+**net.localnet.info.tsk**
+
+Returns the variable %LocalIP which gives you the local IP address of the device and %SSID which gives the SSID of the WiFi network you are connected to. Useful if you've set the particular IP address and want to test that (along with SSID) to see if you want to perform a task, such as connecting to a VPN.
 
 **net.powercycle.tsk**
 
