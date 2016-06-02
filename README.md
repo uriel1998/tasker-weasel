@@ -27,4 +27,6 @@ Returns the variable %LocalIP which gives you the local IP address of the device
 
 Powercycles the wifi.
 
+**wifi**
 
+This project provides the usage of *netcfg* and Tasker to check what interface you're using (cell data, wifi, or VPN) and what your local and internet IP addresses are, and provides a task to pass them to Movable Type for a conky-like interface for your Android phone.
