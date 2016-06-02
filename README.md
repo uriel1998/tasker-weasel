@@ -33,6 +33,6 @@ Powercycles the wifi.
 
 This project provides the usage of *netcfg* and Tasker to check what interface you're using (cell data, wifi, or VPN) and what your local and internet IP addresses are, and provides a task to pass them to [Minimalistic Text](https://play.google.com/store/apps/details?id=de.devmil.minimaltext&hl=en) for a conky-like interface for your Android phone.
 
-Examples:
-![Wifi](wifi_mt?raw=true "With wifi enabled")  
-![Cell](cell_mt?raw=true "With cell enabled")  
+Examples:  
+![Wifi](wifi_mt.jpg?raw=true "With wifi enabled")  
+![Cell](cell_mt.jpg?raw=true "With cell enabled")  
