@@ -1,6 +1,8 @@
 # tasker-weasel
 Tasks and profiles for Tasker
 
+Of course, these all require [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en).
+
 # Network Login
 
 Ever since Lollipop, I don't get presented with the "need to log in to wifi" prompt.  So this profile and set of tasks will take care of that.
@@ -29,4 +31,8 @@ Powercycles the wifi.
 
 **wifi**
 
-This project provides the usage of *netcfg* and Tasker to check what interface you're using (cell data, wifi, or VPN) and what your local and internet IP addresses are, and provides a task to pass them to Movable Type for a conky-like interface for your Android phone.
+This project provides the usage of *netcfg* and Tasker to check what interface you're using (cell data, wifi, or VPN) and what your local and internet IP addresses are, and provides a task to pass them to [Minimalistic Text](https://play.google.com/store/apps/details?id=de.devmil.minimaltext&hl=en) for a conky-like interface for your Android phone.
+
+Examples:
+![Wifi](wifi_mt?raw=true "With wifi enabled")  
+![Cell](cell_mt?raw=true "With cell enabled")  
