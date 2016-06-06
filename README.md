@@ -34,10 +34,10 @@ Powercycles the wifi.
 This project provides the usage of *netcfg* and Tasker to check what interface you're using (cell data, wifi, or VPN) and what your local and internet IP addresses are, and provides a task to pass them to [Minimalistic Text](https://play.google.com/store/apps/details?id=de.devmil.minimaltext&hl=en) for a conky-like interface for your Android phone.
 
 The variables returned are:
-* %Iface 
-* %LocalIP (your IP on the LAN, duh)
-* %SSID (the SSID)
-* %IPaddy (your WAN IP)
+* %Iface  
+* %LocalIP (your IP on the LAN, duh)  
+* %SSID (the SSID)  
+* %IPaddy (your WAN IP)  
 
 You can see all that is returned from netcfg by (installing a terminal emulator)[https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en] and simply running netcfg at the prompt.
 
