@@ -9,7 +9,7 @@ Use the text file **icenumbers.txt** to store the phone numbers of your *text* I
 
    15555551212|15556661313|15557771414
 
-then tie either ICE task to an event, and it will send a message to all those contacts with your message and location. The message formats are as follows:
+then tie either ICE task to an event, and it will send a message to all those contacts with your message and location. The message formats are as follows (where %LOC is replaced by your location and %BATT% replaced by your battery percentage):
 
 **Send_ICE_message.tsk.xml**
 I need help. Please call, text, or check on me. 
