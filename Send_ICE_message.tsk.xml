@@ -1,0 +1,60 @@
+<TaskerData sr="" dvi="1" tv="4.8u5m">
+	<Task sr="task12">
+		<cdate>1478896265683</cdate>
+		<edate>1478897477511</edate>
+		<id>12</id>
+		<nme>Send ICE message</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>902</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="10"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>417</code>
+			<Str sr="arg0" ve="3">icenumbers.txt</Str>
+			<Str sr="arg1" ve="3">%ICEnum</Str>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>590</code>
+			<Str sr="arg0" ve="3">%ICEnum</Str>
+			<Str sr="arg1" ve="3">|</Str>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%numofice</Str>
+			<Str sr="arg1" ve="3">%ICEnum(#)</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>39</code>
+			<Str sr="arg0" ve="3">%num</Str>
+			<Str sr="arg1" ve="3">%ICEnum()</Str>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>41</code>
+			<Str sr="arg0" ve="3">%num</Str>
+			<Str sr="arg1" ve="3">I need help. Please call, text, or check on me. 
+
+I am at http://maps.google.com/maps?z=12&amp;t=m&amp;q=loc%LOC
+
+Battery at %BATT%</Str>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>548</code>
+			<Str sr="arg0" ve="3">%num</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act7" ve="7">
+			<code>40</code>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>cust_warning</nme>
+		</Img>
+	</Task>
+</TaskerData>

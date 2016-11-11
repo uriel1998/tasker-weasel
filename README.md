@@ -3,6 +3,28 @@ Tasks and profiles for Tasker
 
 Of course, these all require [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en).
 
+# Send ICE messages to multiple recipients
+
+Use the text file **icenumbers.txt** to store the phone numbers of your *text* ICE contacts, separated by a | like so:
+
+   15555551212|15556661313|15557771414
+
+then tie either ICE task to an event, and it will send a message to all those contacts with your message and location. The message formats are as follows:
+
+**Send_ICE_message.tsk.xml**
+I need help. Please call, text, or check on me. 
+
+I am at http://maps.google.com/maps?z=12&t=m&q=loc%LOC
+
+Battery at %BATT%
+
+**Silent_ICE_message.tsk.xml**
+I need help. This is a SILENT alert. Call the authorities, not me.  
+
+I am at http://maps.google.com/maps?z=12&t=m&q=loc%LOC
+
+Battery at %BATT%
+
 # Network Login
 
 Ever since Lollipop, I don't get presented with the "need to log in to wifi" prompt.  So this profile and set of tasks will take care of that.
