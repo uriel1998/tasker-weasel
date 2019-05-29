@@ -56,14 +56,16 @@ contacts with your message and location. The message formats are as follows
 (where %LOC is replaced by your location and %BATT% replaced by your battery 
 percentage):
 
-`Send_ICE_message.tsk.xml`
+`Send_ICE_message.tsk.xml`  
+
 I need help. Please call, text, or check on me. 
 
 I am at http://maps.google.com/maps?z=12&t=m&q=loc%LOC
 
 Battery at %BATT%
 
-`Silent_ICE_message.tsk.xml`
+`Silent_ICE_message.tsk.xml`  
+
 I need help. This is a SILENT alert. Call the authorities, not me.  
 
 I am at http://maps.google.com/maps?z=12&t=m&q=loc%LOC
@@ -89,7 +91,7 @@ to. Useful if you've set the particular IP address and want to test that
 (along with SSID) to see if you want to perform a task, such as connecting 
 to a VPN.
 
-## 3. Present Network Info To Minimalistic Text
+## 6. Present Network Info To Minimalistic Text
 
 Depends: [Minimalistic Text](https://play.google.com/store/apps/details?id=de.devmil.minimaltext&hl=en)
 
