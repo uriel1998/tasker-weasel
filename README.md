@@ -111,4 +111,4 @@ The variables returned are:
 You can see all that is returned from netcfg by [installing a terminal emulator](https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en) 
 and simply running netcfg at the prompt.
 
-![example](https://raw.githubusercontent.com/uriel1998/tasker-weasel/blob/master/example.jpg "With wifi enabled")
+![example](https://raw.githubusercontent.com/uriel1998/tasker-weasel/master/example.jpg "With wifi enabled")
