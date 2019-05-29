@@ -4,11 +4,14 @@ Tasks and profiles for Tasker
 Of course, these all require [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en).
 
 ## Contents
- 2. [ICE Messages](#2-ice-messages)
+
  1. [License](#1-license)
- 3. [Prerequisites](#3-prerequisites)
- 4. [How to use](#4-how-to-use)
- 5. [TODO](#5-todo)
+ 2. [Timed Wallpapers](#2-timed-wallpapers)
+ 3. [ICE Messages](#3-ice-messages) 
+ 4. [Check Net IP](#4-check-net-ip)
+ 5. [Check Local Network Info](#5-check-local-network-info)
+ 6  [Present Network Info To Minimalistic Text](#6-present-network-info-to-minimalistic-text)
+ 
 
 ***
 
@@ -16,7 +19,7 @@ Of course, these all require [Tasker](https://play.google.com/store/apps/details
 
 This project is licensed under the MIT license. For the full license, see `LICENSE`.
 
-## 3. Timed Wallpapers
+## 2. Timed Wallpapers
 
 `TimedWalls.prj.xml`
 
@@ -38,7 +41,7 @@ You can, of course, substitute your own collections if you like.
 
 * Note: Dawn and Dusk are different triggers, but pull from the same collection.
 
-## 2. ICE Messages
+## 3. ICE Messages
 
 This profile provides a quick way to send a message to your "In Case of 
 Emergency" contacts quickly. I am currently using [Google Trusted Contacts](https://contacts.google.com/trustedcontacts/) 
@@ -68,7 +71,7 @@ I am at http://maps.google.com/maps?z=12&t=m&q=loc%LOC
 Battery at %BATT%
 
 
-## 3. Check Net IP
+## 4. Check Net IP
 
 `net.checkip.tsk`
 
@@ -76,7 +79,7 @@ Calls http://checkip.dyndns.org/ .  If the response is *anything* that doesn't
 make sense, it sets the variable %IPaddy to 0.0.0.0 ; otherwise it will 
 return %IPaddy with the valid address.
 
-## 3. Check Local Network Info
+## 5. Check Local Network Info
 
 `net.localnet.info.tsk`
 
@@ -106,4 +109,4 @@ The variables returned are:
 You can see all that is returned from netcfg by (installing a terminal emulator)[https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en] 
 and simply running netcfg at the prompt.
 
-![example](example.png?raw=true "With wifi enabled")
+![example](example.png "With wifi enabled")
