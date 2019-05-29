@@ -1,0 +1,245 @@
+<TaskerData sr="" dvi="1" tv="5.7.2">
+	<Profile sr="prof44" ve="2">
+		<cdate>1559141909125</cdate>
+		<clp>true</clp>
+		<edate>1559141921599</edate>
+		<id>44</id>
+		<mid0>40</mid0>
+		<nme>Dawn</nme>
+		<State sr="con0" ve="2">
+			<cname>Dawn</cname>
+			<code>1271452848</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.terdelle.twilight.extra.BOOL_IS_DYNAMIC>true</com.terdelle.twilight.extra.BOOL_IS_DYNAMIC>
+					<com.terdelle.twilight.extra.BOOL_IS_DYNAMIC-type>java.lang.Boolean</com.terdelle.twilight.extra.BOOL_IS_DYNAMIC-type>
+					<com.terdelle.twilight.extra.DOUBLE_LATITUDE>39.7183814</com.terdelle.twilight.extra.DOUBLE_LATITUDE>
+					<com.terdelle.twilight.extra.DOUBLE_LATITUDE-type>java.lang.Double</com.terdelle.twilight.extra.DOUBLE_LATITUDE-type>
+					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE>-84.1422382</com.terdelle.twilight.extra.DOUBLE_LONGITUDE>
+					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE-type>java.lang.Double</com.terdelle.twilight.extra.DOUBLE_LONGITUDE-type>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_FROM>0</com.terdelle.twilight.extra.INT_ACTIVATE_FROM>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_FROM-type>java.lang.Integer</com.terdelle.twilight.extra.INT_ACTIVATE_FROM-type>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_TO>3</com.terdelle.twilight.extra.INT_ACTIVATE_TO>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_TO-type>java.lang.Integer</com.terdelle.twilight.extra.INT_ACTIVATE_TO-type>
+					<com.terdelle.twilight.extra.INT_MIN_FROM>0</com.terdelle.twilight.extra.INT_MIN_FROM>
+					<com.terdelle.twilight.extra.INT_MIN_FROM-type>java.lang.Integer</com.terdelle.twilight.extra.INT_MIN_FROM-type>
+					<com.terdelle.twilight.extra.INT_MIN_TO>30</com.terdelle.twilight.extra.INT_MIN_TO>
+					<com.terdelle.twilight.extra.INT_MIN_TO-type>java.lang.Integer</com.terdelle.twilight.extra.INT_MIN_TO-type>
+					<com.terdelle.twilight.extra.INT_VERSION_CODE>6</com.terdelle.twilight.extra.INT_VERSION_CODE>
+					<com.terdelle.twilight.extra.INT_VERSION_CODE-type>java.lang.Integer</com.terdelle.twilight.extra.INT_VERSION_CODE-type>
+					<com.terdelle.twilight.extra.STRING_ADDRESS>Kettering, United States</com.terdelle.twilight.extra.STRING_ADDRESS>
+					<com.terdelle.twilight.extra.STRING_ADDRESS-type>java.lang.String</com.terdelle.twilight.extra.STRING_ADDRESS-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>From ASTRONOMICAL DAWN to SUNRISE at Device location.</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.terdelle.twilight</Str>
+			<Str sr="arg2" ve="3">com.terdelle.twilight.ui.EditActivity</Str>
+		</State>
+	</Profile>
+	<Profile sr="prof45" ve="2">
+		<cdate>1559141967409</cdate>
+		<clp>true</clp>
+		<edate>1559141967409</edate>
+		<id>45</id>
+		<mid0>40</mid0>
+		<nme>Dusk</nme>
+		<State sr="con0" ve="2">
+			<code>1271452848</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.terdelle.twilight.extra.BOOL_IS_DYNAMIC>true</com.terdelle.twilight.extra.BOOL_IS_DYNAMIC>
+					<com.terdelle.twilight.extra.BOOL_IS_DYNAMIC-type>java.lang.Boolean</com.terdelle.twilight.extra.BOOL_IS_DYNAMIC-type>
+					<com.terdelle.twilight.extra.DOUBLE_LATITUDE>39.7183814</com.terdelle.twilight.extra.DOUBLE_LATITUDE>
+					<com.terdelle.twilight.extra.DOUBLE_LATITUDE-type>java.lang.Double</com.terdelle.twilight.extra.DOUBLE_LATITUDE-type>
+					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE>-84.1422382</com.terdelle.twilight.extra.DOUBLE_LONGITUDE>
+					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE-type>java.lang.Double</com.terdelle.twilight.extra.DOUBLE_LONGITUDE-type>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_FROM>4</com.terdelle.twilight.extra.INT_ACTIVATE_FROM>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_FROM-type>java.lang.Integer</com.terdelle.twilight.extra.INT_ACTIVATE_FROM-type>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_TO>7</com.terdelle.twilight.extra.INT_ACTIVATE_TO>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_TO-type>java.lang.Integer</com.terdelle.twilight.extra.INT_ACTIVATE_TO-type>
+					<com.terdelle.twilight.extra.INT_MIN_FROM>-30</com.terdelle.twilight.extra.INT_MIN_FROM>
+					<com.terdelle.twilight.extra.INT_MIN_FROM-type>java.lang.Integer</com.terdelle.twilight.extra.INT_MIN_FROM-type>
+					<com.terdelle.twilight.extra.INT_MIN_TO>0</com.terdelle.twilight.extra.INT_MIN_TO>
+					<com.terdelle.twilight.extra.INT_MIN_TO-type>java.lang.Integer</com.terdelle.twilight.extra.INT_MIN_TO-type>
+					<com.terdelle.twilight.extra.INT_VERSION_CODE>6</com.terdelle.twilight.extra.INT_VERSION_CODE>
+					<com.terdelle.twilight.extra.INT_VERSION_CODE-type>java.lang.Integer</com.terdelle.twilight.extra.INT_VERSION_CODE-type>
+					<com.terdelle.twilight.extra.STRING_ADDRESS>Kettering, United States</com.terdelle.twilight.extra.STRING_ADDRESS>
+					<com.terdelle.twilight.extra.STRING_ADDRESS-type>java.lang.String</com.terdelle.twilight.extra.STRING_ADDRESS-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>From SUNSET to ASTRONOMICAL DUSK at Device location.</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.terdelle.twilight</Str>
+			<Str sr="arg2" ve="3">com.terdelle.twilight.ui.EditActivity</Str>
+		</State>
+	</Profile>
+	<Profile sr="prof46" ve="2">
+		<cdate>1559142024478</cdate>
+		<clp>true</clp>
+		<edate>1559142100539</edate>
+		<id>46</id>
+		<mid0>42</mid0>
+		<nme>Day</nme>
+		<State sr="con0" ve="2">
+			<code>1271452848</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.terdelle.twilight.extra.BOOL_IS_DYNAMIC>true</com.terdelle.twilight.extra.BOOL_IS_DYNAMIC>
+					<com.terdelle.twilight.extra.BOOL_IS_DYNAMIC-type>java.lang.Boolean</com.terdelle.twilight.extra.BOOL_IS_DYNAMIC-type>
+					<com.terdelle.twilight.extra.DOUBLE_LATITUDE>39.7183814</com.terdelle.twilight.extra.DOUBLE_LATITUDE>
+					<com.terdelle.twilight.extra.DOUBLE_LATITUDE-type>java.lang.Double</com.terdelle.twilight.extra.DOUBLE_LATITUDE-type>
+					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE>-84.1422382</com.terdelle.twilight.extra.DOUBLE_LONGITUDE>
+					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE-type>java.lang.Double</com.terdelle.twilight.extra.DOUBLE_LONGITUDE-type>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_FROM>3</com.terdelle.twilight.extra.INT_ACTIVATE_FROM>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_FROM-type>java.lang.Integer</com.terdelle.twilight.extra.INT_ACTIVATE_FROM-type>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_TO>4</com.terdelle.twilight.extra.INT_ACTIVATE_TO>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_TO-type>java.lang.Integer</com.terdelle.twilight.extra.INT_ACTIVATE_TO-type>
+					<com.terdelle.twilight.extra.INT_MIN_FROM>31</com.terdelle.twilight.extra.INT_MIN_FROM>
+					<com.terdelle.twilight.extra.INT_MIN_FROM-type>java.lang.Integer</com.terdelle.twilight.extra.INT_MIN_FROM-type>
+					<com.terdelle.twilight.extra.INT_MIN_TO>-31</com.terdelle.twilight.extra.INT_MIN_TO>
+					<com.terdelle.twilight.extra.INT_MIN_TO-type>java.lang.Integer</com.terdelle.twilight.extra.INT_MIN_TO-type>
+					<com.terdelle.twilight.extra.INT_VERSION_CODE>6</com.terdelle.twilight.extra.INT_VERSION_CODE>
+					<com.terdelle.twilight.extra.INT_VERSION_CODE-type>java.lang.Integer</com.terdelle.twilight.extra.INT_VERSION_CODE-type>
+					<com.terdelle.twilight.extra.STRING_ADDRESS>Kettering, United States</com.terdelle.twilight.extra.STRING_ADDRESS>
+					<com.terdelle.twilight.extra.STRING_ADDRESS-type>java.lang.String</com.terdelle.twilight.extra.STRING_ADDRESS-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>From SUNRISE to SUNSET at Device location.</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.terdelle.twilight</Str>
+			<Str sr="arg2" ve="3">com.terdelle.twilight.ui.EditActivity</Str>
+		</State>
+	</Profile>
+	<Profile sr="prof47" ve="2">
+		<cdate>1559142049501</cdate>
+		<clp>true</clp>
+		<edate>1559142074480</edate>
+		<id>47</id>
+		<mid0>43</mid0>
+		<nme>Night</nme>
+		<State sr="con0" ve="2">
+			<code>1271452848</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.terdelle.twilight.extra.BOOL_IS_DYNAMIC>true</com.terdelle.twilight.extra.BOOL_IS_DYNAMIC>
+					<com.terdelle.twilight.extra.BOOL_IS_DYNAMIC-type>java.lang.Boolean</com.terdelle.twilight.extra.BOOL_IS_DYNAMIC-type>
+					<com.terdelle.twilight.extra.DOUBLE_LATITUDE>39.7183814</com.terdelle.twilight.extra.DOUBLE_LATITUDE>
+					<com.terdelle.twilight.extra.DOUBLE_LATITUDE-type>java.lang.Double</com.terdelle.twilight.extra.DOUBLE_LATITUDE-type>
+					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE>-84.1422382</com.terdelle.twilight.extra.DOUBLE_LONGITUDE>
+					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE-type>java.lang.Double</com.terdelle.twilight.extra.DOUBLE_LONGITUDE-type>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_FROM>7</com.terdelle.twilight.extra.INT_ACTIVATE_FROM>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_FROM-type>java.lang.Integer</com.terdelle.twilight.extra.INT_ACTIVATE_FROM-type>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_TO>0</com.terdelle.twilight.extra.INT_ACTIVATE_TO>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_TO-type>java.lang.Integer</com.terdelle.twilight.extra.INT_ACTIVATE_TO-type>
+					<com.terdelle.twilight.extra.INT_MIN_FROM>0</com.terdelle.twilight.extra.INT_MIN_FROM>
+					<com.terdelle.twilight.extra.INT_MIN_FROM-type>java.lang.Integer</com.terdelle.twilight.extra.INT_MIN_FROM-type>
+					<com.terdelle.twilight.extra.INT_MIN_TO>0</com.terdelle.twilight.extra.INT_MIN_TO>
+					<com.terdelle.twilight.extra.INT_MIN_TO-type>java.lang.Integer</com.terdelle.twilight.extra.INT_MIN_TO-type>
+					<com.terdelle.twilight.extra.INT_VERSION_CODE>6</com.terdelle.twilight.extra.INT_VERSION_CODE>
+					<com.terdelle.twilight.extra.INT_VERSION_CODE-type>java.lang.Integer</com.terdelle.twilight.extra.INT_VERSION_CODE-type>
+					<com.terdelle.twilight.extra.STRING_ADDRESS>Kettering, United States</com.terdelle.twilight.extra.STRING_ADDRESS>
+					<com.terdelle.twilight.extra.STRING_ADDRESS-type>java.lang.String</com.terdelle.twilight.extra.STRING_ADDRESS-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>From ASTRONOMICAL DUSK to ASTRONOMICAL DAWN at Device location.</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.terdelle.twilight</Str>
+			<Str sr="arg2" ve="3">com.terdelle.twilight.ui.EditActivity</Str>
+		</State>
+	</Profile>
+	<Project sr="proj0" ve="2">
+		<cdate>1559141773426</cdate>
+		<name>TimedWalls</name>
+		<pids>44,46,45,47</pids>
+		<tids>40,43,42</tids>
+		<Img sr="icon" ve="2">
+			<nme>hd_device_access_bightness_low</nme>
+		</Img>
+	</Project>
+	<Task sr="task40">
+		<cdate>1559141010486</cdate>
+		<edate>1559141843905</edate>
+		<id>40</id>
+		<nme>Twilight</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>118</code>
+			<Str sr="arg0" ve="3">https://source.unsplash.com</Str>
+			<Str sr="arg1" ve="3">/collection/4900660</Str>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="20"/>
+			<Str sr="arg6" ve="3">image/jpeg</Str>
+			<Str sr="arg7" ve="3">backdrop.jpg</Str>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>109</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">backdrop.jpg</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task42">
+		<cdate>1559141010486</cdate>
+		<edate>1559142100539</edate>
+		<id>42</id>
+		<nme>Daytime</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>118</code>
+			<Str sr="arg0" ve="3">https://source.unsplash.com</Str>
+			<Str sr="arg1" ve="3">/collection/4900670</Str>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="20"/>
+			<Str sr="arg6" ve="3">image/jpeg</Str>
+			<Str sr="arg7" ve="3">backdrop.jpg</Str>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>109</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">backdrop.jpg</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task43">
+		<cdate>1559141010486</cdate>
+		<edate>1559141865703</edate>
+		<id>43</id>
+		<nme>Nighttime</nme>
+		<Action sr="act0" ve="7">
+			<code>118</code>
+			<Str sr="arg0" ve="3">https://source.unsplash.com</Str>
+			<Str sr="arg1" ve="3">/collection/4900654</Str>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Int sr="arg5" val="20"/>
+			<Str sr="arg6" ve="3">image/jpeg</Str>
+			<Str sr="arg7" ve="3">backdrop.jpg</Str>
+			<Int sr="arg8" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>109</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">backdrop.jpg</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>
