@@ -10,7 +10,7 @@ Of course, these all require [Tasker](https://play.google.com/store/apps/details
  3. [ICE Messages](#3-ice-messages) 
  4. [Check Net IP](#4-check-net-ip)
  5. [Check Local Network Info](#5-check-local-network-info)  
- 6  [Present Network Info To Minimalistic Text](#6-present-network-info-to-minimalistic-text)
+ 6. [Present Network Info To Minimalistic Text](#6-present-network-info-to-minimalistic-text)
  
 
 ***
