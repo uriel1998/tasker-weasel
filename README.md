@@ -108,7 +108,7 @@ The variables returned are:
 * %SSID (the SSID)  
 * %IPaddy (your WAN IP)  
 
-You can see all that is returned from netcfg by (installing a terminal emulator)[https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en] 
+You can see all that is returned from netcfg by [installing a terminal emulator](https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en) 
 and simply running netcfg at the prompt.
 
 ![example](example.png "With wifi enabled")
