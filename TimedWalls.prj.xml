@@ -1,8 +1,8 @@
-<TaskerData sr="" dvi="1" tv="5.7.2">
+<TaskerData sr="" dvi="1" tv="5.8">
 	<Profile sr="prof44" ve="2">
 		<cdate>1559141909125</cdate>
 		<clp>true</clp>
-		<edate>1559141921599</edate>
+		<edate>1559181911952</edate>
 		<id>44</id>
 		<mid0>40</mid0>
 		<nme>Dawn</nme>
@@ -13,11 +13,11 @@
 				<Vals sr="val">
 					<com.terdelle.twilight.extra.BOOL_IS_DYNAMIC>true</com.terdelle.twilight.extra.BOOL_IS_DYNAMIC>
 					<com.terdelle.twilight.extra.BOOL_IS_DYNAMIC-type>java.lang.Boolean</com.terdelle.twilight.extra.BOOL_IS_DYNAMIC-type>
-					<com.terdelle.twilight.extra.DOUBLE_LATITUDE>39.7183814</com.terdelle.twilight.extra.DOUBLE_LATITUDE>
+					<com.terdelle.twilight.extra.DOUBLE_LATITUDE>39.72069315612316</com.terdelle.twilight.extra.DOUBLE_LATITUDE>
 					<com.terdelle.twilight.extra.DOUBLE_LATITUDE-type>java.lang.Double</com.terdelle.twilight.extra.DOUBLE_LATITUDE-type>
-					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE>-84.1422382</com.terdelle.twilight.extra.DOUBLE_LONGITUDE>
+					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE>-84.14985151961446</com.terdelle.twilight.extra.DOUBLE_LONGITUDE>
 					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE-type>java.lang.Double</com.terdelle.twilight.extra.DOUBLE_LONGITUDE-type>
-					<com.terdelle.twilight.extra.INT_ACTIVATE_FROM>0</com.terdelle.twilight.extra.INT_ACTIVATE_FROM>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_FROM>1</com.terdelle.twilight.extra.INT_ACTIVATE_FROM>
 					<com.terdelle.twilight.extra.INT_ACTIVATE_FROM-type>java.lang.Integer</com.terdelle.twilight.extra.INT_ACTIVATE_FROM-type>
 					<com.terdelle.twilight.extra.INT_ACTIVATE_TO>3</com.terdelle.twilight.extra.INT_ACTIVATE_TO>
 					<com.terdelle.twilight.extra.INT_ACTIVATE_TO-type>java.lang.Integer</com.terdelle.twilight.extra.INT_ACTIVATE_TO-type>
@@ -27,9 +27,9 @@
 					<com.terdelle.twilight.extra.INT_MIN_TO-type>java.lang.Integer</com.terdelle.twilight.extra.INT_MIN_TO-type>
 					<com.terdelle.twilight.extra.INT_VERSION_CODE>6</com.terdelle.twilight.extra.INT_VERSION_CODE>
 					<com.terdelle.twilight.extra.INT_VERSION_CODE-type>java.lang.Integer</com.terdelle.twilight.extra.INT_VERSION_CODE-type>
-					<com.terdelle.twilight.extra.STRING_ADDRESS>Kettering, United States</com.terdelle.twilight.extra.STRING_ADDRESS>
+					<com.terdelle.twilight.extra.STRING_ADDRESS>Dayton, United States</com.terdelle.twilight.extra.STRING_ADDRESS>
 					<com.terdelle.twilight.extra.STRING_ADDRESS-type>java.lang.String</com.terdelle.twilight.extra.STRING_ADDRESS-type>
-					<com.twofortyfouram.locale.intent.extra.BLURB>From ASTRONOMICAL DAWN to SUNRISE at Device location.</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB>From NAUTICAL DAWN to SUNRISE at Device location.</com.twofortyfouram.locale.intent.extra.BLURB>
 					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
 					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
 					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
@@ -42,7 +42,7 @@
 	<Profile sr="prof45" ve="2">
 		<cdate>1559141967409</cdate>
 		<clp>true</clp>
-		<edate>1559141967409</edate>
+		<edate>1559181874534</edate>
 		<id>45</id>
 		<mid0>40</mid0>
 		<nme>Dusk</nme>
@@ -52,13 +52,13 @@
 				<Vals sr="val">
 					<com.terdelle.twilight.extra.BOOL_IS_DYNAMIC>true</com.terdelle.twilight.extra.BOOL_IS_DYNAMIC>
 					<com.terdelle.twilight.extra.BOOL_IS_DYNAMIC-type>java.lang.Boolean</com.terdelle.twilight.extra.BOOL_IS_DYNAMIC-type>
-					<com.terdelle.twilight.extra.DOUBLE_LATITUDE>39.7183814</com.terdelle.twilight.extra.DOUBLE_LATITUDE>
+					<com.terdelle.twilight.extra.DOUBLE_LATITUDE>39.72069315612316</com.terdelle.twilight.extra.DOUBLE_LATITUDE>
 					<com.terdelle.twilight.extra.DOUBLE_LATITUDE-type>java.lang.Double</com.terdelle.twilight.extra.DOUBLE_LATITUDE-type>
-					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE>-84.1422382</com.terdelle.twilight.extra.DOUBLE_LONGITUDE>
+					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE>-84.14985151961446</com.terdelle.twilight.extra.DOUBLE_LONGITUDE>
 					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE-type>java.lang.Double</com.terdelle.twilight.extra.DOUBLE_LONGITUDE-type>
 					<com.terdelle.twilight.extra.INT_ACTIVATE_FROM>4</com.terdelle.twilight.extra.INT_ACTIVATE_FROM>
 					<com.terdelle.twilight.extra.INT_ACTIVATE_FROM-type>java.lang.Integer</com.terdelle.twilight.extra.INT_ACTIVATE_FROM-type>
-					<com.terdelle.twilight.extra.INT_ACTIVATE_TO>7</com.terdelle.twilight.extra.INT_ACTIVATE_TO>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_TO>6</com.terdelle.twilight.extra.INT_ACTIVATE_TO>
 					<com.terdelle.twilight.extra.INT_ACTIVATE_TO-type>java.lang.Integer</com.terdelle.twilight.extra.INT_ACTIVATE_TO-type>
 					<com.terdelle.twilight.extra.INT_MIN_FROM>-30</com.terdelle.twilight.extra.INT_MIN_FROM>
 					<com.terdelle.twilight.extra.INT_MIN_FROM-type>java.lang.Integer</com.terdelle.twilight.extra.INT_MIN_FROM-type>
@@ -66,9 +66,9 @@
 					<com.terdelle.twilight.extra.INT_MIN_TO-type>java.lang.Integer</com.terdelle.twilight.extra.INT_MIN_TO-type>
 					<com.terdelle.twilight.extra.INT_VERSION_CODE>6</com.terdelle.twilight.extra.INT_VERSION_CODE>
 					<com.terdelle.twilight.extra.INT_VERSION_CODE-type>java.lang.Integer</com.terdelle.twilight.extra.INT_VERSION_CODE-type>
-					<com.terdelle.twilight.extra.STRING_ADDRESS>Kettering, United States</com.terdelle.twilight.extra.STRING_ADDRESS>
+					<com.terdelle.twilight.extra.STRING_ADDRESS>Dayton, United States</com.terdelle.twilight.extra.STRING_ADDRESS>
 					<com.terdelle.twilight.extra.STRING_ADDRESS-type>java.lang.String</com.terdelle.twilight.extra.STRING_ADDRESS-type>
-					<com.twofortyfouram.locale.intent.extra.BLURB>From SUNSET to ASTRONOMICAL DUSK at Device location.</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB>From SUNSET to NAUTICAL DUSK at Device location.</com.twofortyfouram.locale.intent.extra.BLURB>
 					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
 					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
 					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
@@ -120,7 +120,7 @@
 	<Profile sr="prof47" ve="2">
 		<cdate>1559142049501</cdate>
 		<clp>true</clp>
-		<edate>1559142074480</edate>
+		<edate>1559181929704</edate>
 		<id>47</id>
 		<mid0>43</mid0>
 		<nme>Night</nme>
@@ -130,13 +130,13 @@
 				<Vals sr="val">
 					<com.terdelle.twilight.extra.BOOL_IS_DYNAMIC>true</com.terdelle.twilight.extra.BOOL_IS_DYNAMIC>
 					<com.terdelle.twilight.extra.BOOL_IS_DYNAMIC-type>java.lang.Boolean</com.terdelle.twilight.extra.BOOL_IS_DYNAMIC-type>
-					<com.terdelle.twilight.extra.DOUBLE_LATITUDE>39.7183814</com.terdelle.twilight.extra.DOUBLE_LATITUDE>
+					<com.terdelle.twilight.extra.DOUBLE_LATITUDE>39.72069315612316</com.terdelle.twilight.extra.DOUBLE_LATITUDE>
 					<com.terdelle.twilight.extra.DOUBLE_LATITUDE-type>java.lang.Double</com.terdelle.twilight.extra.DOUBLE_LATITUDE-type>
-					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE>-84.1422382</com.terdelle.twilight.extra.DOUBLE_LONGITUDE>
+					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE>-84.14985151961446</com.terdelle.twilight.extra.DOUBLE_LONGITUDE>
 					<com.terdelle.twilight.extra.DOUBLE_LONGITUDE-type>java.lang.Double</com.terdelle.twilight.extra.DOUBLE_LONGITUDE-type>
-					<com.terdelle.twilight.extra.INT_ACTIVATE_FROM>7</com.terdelle.twilight.extra.INT_ACTIVATE_FROM>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_FROM>6</com.terdelle.twilight.extra.INT_ACTIVATE_FROM>
 					<com.terdelle.twilight.extra.INT_ACTIVATE_FROM-type>java.lang.Integer</com.terdelle.twilight.extra.INT_ACTIVATE_FROM-type>
-					<com.terdelle.twilight.extra.INT_ACTIVATE_TO>0</com.terdelle.twilight.extra.INT_ACTIVATE_TO>
+					<com.terdelle.twilight.extra.INT_ACTIVATE_TO>1</com.terdelle.twilight.extra.INT_ACTIVATE_TO>
 					<com.terdelle.twilight.extra.INT_ACTIVATE_TO-type>java.lang.Integer</com.terdelle.twilight.extra.INT_ACTIVATE_TO-type>
 					<com.terdelle.twilight.extra.INT_MIN_FROM>0</com.terdelle.twilight.extra.INT_MIN_FROM>
 					<com.terdelle.twilight.extra.INT_MIN_FROM-type>java.lang.Integer</com.terdelle.twilight.extra.INT_MIN_FROM-type>
@@ -144,9 +144,9 @@
 					<com.terdelle.twilight.extra.INT_MIN_TO-type>java.lang.Integer</com.terdelle.twilight.extra.INT_MIN_TO-type>
 					<com.terdelle.twilight.extra.INT_VERSION_CODE>6</com.terdelle.twilight.extra.INT_VERSION_CODE>
 					<com.terdelle.twilight.extra.INT_VERSION_CODE-type>java.lang.Integer</com.terdelle.twilight.extra.INT_VERSION_CODE-type>
-					<com.terdelle.twilight.extra.STRING_ADDRESS>Kettering, United States</com.terdelle.twilight.extra.STRING_ADDRESS>
+					<com.terdelle.twilight.extra.STRING_ADDRESS>Dayton, United States</com.terdelle.twilight.extra.STRING_ADDRESS>
 					<com.terdelle.twilight.extra.STRING_ADDRESS-type>java.lang.String</com.terdelle.twilight.extra.STRING_ADDRESS-type>
-					<com.twofortyfouram.locale.intent.extra.BLURB>From ASTRONOMICAL DUSK to ASTRONOMICAL DAWN at Device location.</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB>From NAUTICAL DUSK to NAUTICAL DAWN at Device location.</com.twofortyfouram.locale.intent.extra.BLURB>
 					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
 					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
 					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
@@ -159,29 +159,41 @@
 	<Project sr="proj0" ve="2">
 		<cdate>1559141773426</cdate>
 		<name>TimedWalls</name>
-		<pids>44,46,45,47</pids>
-		<tids>40,43,42</tids>
+		<pids>45,47,46,44</pids>
+		<tids>43,40,42</tids>
 		<Img sr="icon" ve="2">
 			<nme>hd_device_access_bightness_low</nme>
 		</Img>
 	</Project>
 	<Task sr="task40">
 		<cdate>1559141010486</cdate>
-		<edate>1559141843905</edate>
+		<edate>1563935738491</edate>
 		<id>40</id>
 		<nme>Twilight</nme>
 		<pri>100</pri>
 		<Action sr="act0" ve="7">
-			<code>118</code>
-			<Str sr="arg0" ve="3">https://source.unsplash.com</Str>
-			<Str sr="arg1" ve="3">/collection/4900660</Str>
-			<Str sr="arg2" ve="3"/>
+			<code>339</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%http_response_code
+Response Code
+The HTTP Code the server responded&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%http_headers()
+Response Headers
+The HTTP Headers the server sent in the response. Each header is in the 'key:value' format&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;%http_response_length
+Response Length
+The size of the response in bytes&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3">https://source.unsplash.com/collection/4900660</Str>
 			<Str sr="arg3" ve="3"/>
 			<Str sr="arg4" ve="3"/>
-			<Int sr="arg5" val="20"/>
-			<Str sr="arg6" ve="3">image/jpeg</Str>
+			<Str sr="arg5" ve="3"/>
+			<Str sr="arg6" ve="3"/>
 			<Str sr="arg7" ve="3">backdrop.jpg</Str>
-			<Int sr="arg8" val="0"/>
+			<Int sr="arg8" val="30"/>
+			<Int sr="arg9" val="0"/>
 		</Action>
 		<Action sr="act1" ve="7">
 			<code>109</code>
@@ -193,21 +205,33 @@
 	</Task>
 	<Task sr="task42">
 		<cdate>1559141010486</cdate>
-		<edate>1559142100539</edate>
+		<edate>1563935779179</edate>
 		<id>42</id>
 		<nme>Daytime</nme>
 		<pri>100</pri>
 		<Action sr="act0" ve="7">
-			<code>118</code>
-			<Str sr="arg0" ve="3">https://source.unsplash.com</Str>
-			<Str sr="arg1" ve="3">/collection/4900670</Str>
-			<Str sr="arg2" ve="3"/>
+			<code>339</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%http_response_code
+Response Code
+The HTTP Code the server responded&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%http_headers()
+Response Headers
+The HTTP Headers the server sent in the response. Each header is in the 'key:value' format&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;%http_response_length
+Response Length
+The size of the response in bytes&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3">https://source.unsplash.com/collection/4900670</Str>
 			<Str sr="arg3" ve="3"/>
 			<Str sr="arg4" ve="3"/>
-			<Int sr="arg5" val="20"/>
-			<Str sr="arg6" ve="3">image/jpeg</Str>
+			<Str sr="arg5" ve="3"/>
+			<Str sr="arg6" ve="3"/>
 			<Str sr="arg7" ve="3">backdrop.jpg</Str>
-			<Int sr="arg8" val="0"/>
+			<Int sr="arg8" val="30"/>
+			<Int sr="arg9" val="0"/>
 		</Action>
 		<Action sr="act1" ve="7">
 			<code>109</code>
@@ -219,20 +243,33 @@
 	</Task>
 	<Task sr="task43">
 		<cdate>1559141010486</cdate>
-		<edate>1559141865703</edate>
+		<edate>1563935821294</edate>
 		<id>43</id>
 		<nme>Nighttime</nme>
+		<pri>100</pri>
 		<Action sr="act0" ve="7">
-			<code>118</code>
-			<Str sr="arg0" ve="3">https://source.unsplash.com</Str>
-			<Str sr="arg1" ve="3">/collection/4900654</Str>
-			<Str sr="arg2" ve="3"/>
+			<code>339</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%http_response_code
+Response Code
+The HTTP Code the server responded&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%http_headers()
+Response Headers
+The HTTP Headers the server sent in the response. Each header is in the 'key:value' format&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;%http_response_length
+Response Length
+The size of the response in bytes&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+				</Vals>
+			</Bundle>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3">https://source.unsplash.com/collection/4900654</Str>
 			<Str sr="arg3" ve="3"/>
 			<Str sr="arg4" ve="3"/>
-			<Int sr="arg5" val="20"/>
-			<Str sr="arg6" ve="3">image/jpeg</Str>
+			<Str sr="arg5" ve="3"/>
+			<Str sr="arg6" ve="3"/>
 			<Str sr="arg7" ve="3">backdrop.jpg</Str>
-			<Int sr="arg8" val="0"/>
+			<Int sr="arg8" val="30"/>
+			<Int sr="arg9" val="0"/>
 		</Action>
 		<Action sr="act1" ve="7">
 			<code>109</code>
